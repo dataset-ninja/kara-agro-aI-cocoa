@@ -1,8 +1,8 @@
-The ***The KaraAgroAI Cocoa Dataset*** was created by authors to provide an open and accessible Cocoa dataset with well-labeled, sufficiently curated, and prepared Cocoa crop imagery that will be used by data scientists, researchers, the wider machine learning community, and social entrepreneurs within Sub-saharan Africa and worldwide for various machine learning experiments so as to build solutions towards in-field Cocoa crop disease diagnosis and spatial analysis.
+The **The KaraAgroAI Cocoa Dataset** was created by authors to provide an open and accessible Cocoa dataset with well-labeled, sufficiently curated, and prepared Cocoa crop imagery that will be used by data scientists, researchers, the wider machine learning community, and social entrepreneurs within Sub-saharan Africa and worldwide for various machine learning experiments so as to build solutions towards in-field Cocoa crop disease diagnosis and spatial analysis.
 
 ## Motivation
 
-Despite the fact that the agricultural sector is a national economic development priority in sub-Saharan Africa, crop pests and diseases have been the challenge affecting major food security crops like maize. Fall armyworm affects 44 countries in Africa. In new household surveys in Ghana and Zambia, 98% of farmers reported maize to be affected. The average maize loss reported by farmers in Ghana was 26.6% and in Zambia 35%. Extrapolating these losses nationally gives an estimate of US$177m lost value of the annual maize crop in Ghana and US$159m in Zambia. According to research, Maize Streak Disease which is caused by the Maize Streak Virus is regarded as the third most serious disease affecting maize in sub-Saharan Africa. The prominence of these diseases has greatly affected the yields of Africa’s most important food crop. The current state of data collection and crop pest and disease diagnosis is transitioning from disease identification using visible symptoms to the use of data-driven solutions applying machine learning and computer vision techniques. The image data previously collected is biased and not reproducible It has also not been sufficiently curated, prepared, and shared with the wider community.
+Despite the fact that the agricultural sector is a national economic development priority in Sub-Saharan Africa, crop pests and diseases have been the challenge affecting major food security crops like cocoa. Cocoa Swollen Shoot Virus Disease (CSSVD) can substantially reduce yield by about 70% and even cause the death of cocoa trees within 2–3 years of infection at all stages of cocoa growth. It is one of the major disease problems affecting cocoa production in West Africa, most especially, in Ghana, Côte D’Ivoire, Nigeria, and Togo. Anthracnose, caused by Colletotrichum lupini, is the world's most important lupin disease. The current state of data collection and crop pest and disease diagnosis is transitioning from disease identification using visible symptoms to the use of data-driven solutions applying machine learning and computer vision techniques. The image data previously collected is biased and not reproducible It has also not been sufficiently curated, prepared, and shared with the wider community.
 
 ## Dataset Creation
 
@@ -11,3 +11,8 @@ The dataset contains different instances that were captured across all the 7 coc
 <img src="https://user-images.githubusercontent.com/120389559/297702754-1df8569e-a02b-45ca-b628-3b202e7f3b37.png" alt="image" width="800">
 
 <span style="font-size: smaller; font-style: italic;">Cocoa Data Labels.</span>
+
+
+Note, similar **The KaraAgroAI Cocoa Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
+
+- [The KaraAgro AI Maize Dataset](https://datasetninja.com/kara-agro-ai-maize)

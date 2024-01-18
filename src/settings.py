@@ -64,9 +64,9 @@ CLASS2COLOR: Optional[Dict[str, List[str]]] = {
 
 # If you have more than the one paper, put the most relatable link as the first element of the list
 # Use dict key to specify name for a button
-PAPER: Optional[
-    Union[str, List[str], Dict[str, str]]
-] = "https://dataverse.harvard.edu/file.xhtml?fileId=6419433&version=6.1"
+PAPER: Optional[Union[str, List[str], Dict[str, str]]] = {
+    "Datasheet": "https://dataverse.harvard.edu/file.xhtml?fileId=6419433&version=6.1"
+}
 BLOGPOST: Optional[Union[str, List[str], Dict[str, str]]] = None
 REPOSITORY: Optional[Union[str, List[str], Dict[str, str]]] = None
 
@@ -88,7 +88,7 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.ug.edu.gh/"
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
-    "__PRETEXT__": "Additionally, every image have information about its parent folder: ***anthracnose_01-anthracnose_04***, ***cssvd_01-cssvd_04***, ***healthy_01-healthy_05***"
+    "__PRETEXT__": "Additionally, every image have information about its class type: ***anthracnose***, ***cssvd*** or ***healthy***. Explore it in supervisely labeling tool"
 }
 TAGS: Optional[List[str]] = None
 
