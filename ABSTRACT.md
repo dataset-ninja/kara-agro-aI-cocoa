@@ -1,4 +1,4 @@
-The **The KaraAgroAI Cocoa Dataset** was created by authors to provide an open and accessible Cocoa dataset with well-labeled, sufficiently curated, and prepared Cocoa crop imagery that will be used by data scientists, researchers, the wider machine learning community, and social entrepreneurs within Sub-saharan Africa and worldwide for various machine learning experiments so as to build solutions towards in-field Cocoa crop disease diagnosis and spatial analysis.
+The **The KaraAgroAI Cocoa Dataset** was created by authors to provide an open and accessible Cocoa dataset with well-labeled, sufficiently curated, and prepared Cocoa crop imagery that will be used by data scientists, researchers, the wider machine learning community, and social entrepreneurs within Sub-Saharan Africa and worldwide for various machine learning experiments so as to build solutions towards in-field Cocoa crop disease diagnosis and spatial analysis.
 
 ## Motivation
 
