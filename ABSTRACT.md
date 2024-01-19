@@ -16,3 +16,5 @@ The dataset was created to provide an open, well-labelled, sufficiently curated 
 Note, similar **The KaraAgroAI Cocoa Dataset** datasets are also available on the [DatasetNinja.com](https://datasetninja.com/):
 
 - [The KaraAgro AI Maize Dataset](https://datasetninja.com/kara-agro-ai-maize)
+- [Makerere University Cassava Image Dataset](https://datasetninja.com/makerere-university-cassava)
+- [Makerere University Beans Image Dataset](https://datasetninja.com/makerere-university-beans)
