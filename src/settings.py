@@ -15,7 +15,7 @@ from dataset_tools.templates import (
 ##################################
 PROJECT_NAME: str = "KaraAgro AI Cocoa"
 PROJECT_NAME_FULL: str = "The KaraAgroAI Cocoa Dataset"
-HIDE_DATASET = True  # set False when 100% sure about repo quality
+HIDE_DATASET = False  # set False when 100% sure about repo quality
 
 ##################################
 # * After uploading to instance ##
@@ -88,8 +88,9 @@ ORGANIZATION_URL: Optional[Union[str, List[str]]] = "https://www.ug.edu.gh/"
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
-    "__PRETEXT__": "Additionally, every image have information about its class type: ***anthracnose***, ***cssvd*** or ***healthy***. Explore it in supervisely labeling tool"
+    "health statuses": ["anthracnose", "cssvd", "healthy"]
 }
+
 TAGS: Optional[List[str]] = None
 
 
