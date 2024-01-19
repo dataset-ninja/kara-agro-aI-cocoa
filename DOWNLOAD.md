@@ -1,6 +1,6 @@
 Dataset **KaraAgro AI Cocoa** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://www.dropbox.com/scl/fi/8p9egyo5ebgsac6txb9o6/karaagro-ai-cocoa-DatasetNinja.tar?rlkey=67uytdf5iyv25xjno90p4rkes&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
